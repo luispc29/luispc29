@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @luispc29
-- 👀 I’m interested in software engineering, video games, sports
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on don't know yet 
+- 👋 Hi, I’m Luis Castillo
+💻💼 Software Engineer
+🎓 App Academy graduate
+💻 Learning tools for full-stack development
 - 📫 How to reach me luispc13@aol.com
 
 <!---
